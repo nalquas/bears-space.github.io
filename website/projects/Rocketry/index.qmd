@@ -5,16 +5,13 @@ image: "Rocket_0.jpg"
 ---
 
 ## Our rockets
-Our current rocket, ready for launch, is [STARDUST](https://www.bears-space.de/projects/Stardust/).
-Our first rocket was [STARMOON](https://www.bears-space.de/projects/Starmoon/).
-Our next rocket will be [STARGAZE](https://www.bears-space.de/projects/Stargaze/).
+We are currently working on two rockets, [STARGAZE](https://www.bears-space.de/projects/Stargaze/) and [MOONDUST](https://www.bears-space.de/projects/Moondust/).
+Our second rocket, launched in September 2024, was [STARDUST](https://www.bears-space.de/projects/Stardust/).
+Our first rocket, launched in October 2022, was [STARMOON](https://www.bears-space.de/projects/Starmoon/).
 
 ## Our team
 In the rocket systems group we build our own rockets. 
-We have already achieved a successful launch to an altitude of 600m. 
-Currently we are building a rocket that is designed to reach an altitude of 3 km. 
-On this also a small experiment is to be accomplished. 
-We also want to participate in competitions with the new rocket.
+We have already achieved two successful launches, one to an altitude of 1.5 km and one to an altitude of 600 m.
 
 <div class="slideshow">
   <!-- put all images here that should be available in the slideshow -->
